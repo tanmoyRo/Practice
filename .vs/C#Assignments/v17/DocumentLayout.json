@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tanmo\\source\\repos\\C#Assignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27375F34-A33C-4252-9F60-E30619CC3451}|StaticVariableClassesMethods\\StaticVariableClassesMethods.csproj|c:\\users\\tanmo\\source\\repos\\c#assignments\\staticvariableclassesmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27375F34-A33C-4252-9F60-E30619CC3451}|StaticVariableClassesMethods\\StaticVariableClassesMethods.csproj|solutionrelative:staticvariableclassesmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0436A364-1E7E-4D55-BA10-8C2958E9F7AF}|Constructors\\Constructors.csproj|c:\\users\\tanmo\\source\\repos\\c#assignments\\constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0436A364-1E7E-4D55-BA10-8C2958E9F7AF}|Constructors\\Constructors.csproj|solutionrelative:constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6A98B9-DB84-48CE-A7E1-D7E3BED5F5F8}|ClassesAndObjects\\ClassesAndObjects.csproj|c:\\users\\tanmo\\source\\repos\\c#assignments\\classesandobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6A98B9-DB84-48CE-A7E1-D7E3BED5F5F8}|ClassesAndObjects\\ClassesAndObjects.csproj|solutionrelative:classesandobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tanmo\\source\\repos\\C#Assignments\\StaticVariableClassesMethods\\Program.cs",
+              "RelativeDocumentMoniker": "StaticVariableClassesMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\tanmo\\source\\repos\\C#Assignments\\StaticVariableClassesMethods\\Program.cs",
+              "RelativeToolTip": "StaticVariableClassesMethods\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:36:03.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tanmo\\source\\repos\\C#Assignments\\Constructors\\Program.cs",
+              "RelativeDocumentMoniker": "Constructors\\Program.cs",
+              "ToolTip": "C:\\Users\\tanmo\\source\\repos\\C#Assignments\\Constructors\\Program.cs",
+              "RelativeToolTip": "Constructors\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:12:21.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tanmo\\source\\repos\\C#Assignments\\ClassesAndObjects\\Program.cs",
+              "RelativeDocumentMoniker": "ClassesAndObjects\\Program.cs",
+              "ToolTip": "C:\\Users\\tanmo\\source\\repos\\C#Assignments\\ClassesAndObjects\\Program.cs",
+              "RelativeToolTip": "ClassesAndObjects\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:11:25.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
