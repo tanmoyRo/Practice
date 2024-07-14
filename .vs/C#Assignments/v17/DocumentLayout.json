@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\tanmo\\source\\repos\\C#Assignments\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6B04800F-8B8E-4134-8A4A-790CFFB105A8}|AbstractMethodsandClasses\\AbstractMethodsandClasses.csproj|c:\\users\\tanmo\\source\\repos\\c#assignments\\abstractmethodsandclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B04800F-8B8E-4134-8A4A-790CFFB105A8}|AbstractMethodsandClasses\\AbstractMethodsandClasses.csproj|solutionrelative:abstractmethodsandclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27375F34-A33C-4252-9F60-E30619CC3451}|StaticVariableClassesMethods\\StaticVariableClassesMethods.csproj|c:\\users\\tanmo\\source\\repos\\c#assignments\\staticvariableclassesmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27375F34-A33C-4252-9F60-E30619CC3451}|StaticVariableClassesMethods\\StaticVariableClassesMethods.csproj|solutionrelative:staticvariableclassesmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,18 +32,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tanmo\\source\\repos\\C#Assignments\\AbstractMethodsandClasses\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractMethodsandClasses\\Program.cs",
+              "ToolTip": "C:\\Users\\tanmo\\source\\repos\\C#Assignments\\AbstractMethodsandClasses\\Program.cs",
+              "RelativeToolTip": "AbstractMethodsandClasses\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:12:51.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tanmo\\source\\repos\\C#Assignments\\StaticVariableClassesMethods\\Program.cs",
               "RelativeDocumentMoniker": "StaticVariableClassesMethods\\Program.cs",
               "ToolTip": "C:\\Users\\tanmo\\source\\repos\\C#Assignments\\StaticVariableClassesMethods\\Program.cs",
               "RelativeToolTip": "StaticVariableClassesMethods\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T14:36:03.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tanmo\\source\\repos\\C#Assignments\\Constructors\\Program.cs",
               "RelativeDocumentMoniker": "Constructors\\Program.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "Constructors\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T13:12:21.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T13:12:21.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tanmo\\source\\repos\\C#Assignments\\ClassesAndObjects\\Program.cs",
               "RelativeDocumentMoniker": "ClassesAndObjects\\Program.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "ClassesAndObjects\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T13:11:25.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T13:11:25.078Z"
             }
           ]
         }

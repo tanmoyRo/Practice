@@ -1,0 +1,15 @@
+C:\Users\tanmo\source\repos\C#Assignments\AbstractMethodsandClasses\bin\Debug\net8.0\AbstractMethodsandClasses.exe
+C:\Users\tanmo\source\repos\C#Assignments\AbstractMethodsandClasses\bin\Debug\net8.0\AbstractMethodsandClasses.deps.json
+C:\Users\tanmo\source\repos\C#Assignments\AbstractMethodsandClasses\bin\Debug\net8.0\AbstractMethodsandClasses.runtimeconfig.json
+C:\Users\tanmo\source\repos\C#Assignments\AbstractMethodsandClasses\bin\Debug\net8.0\AbstractMethodsandClasses.dll
+C:\Users\tanmo\source\repos\C#Assignments\AbstractMethodsandClasses\bin\Debug\net8.0\AbstractMethodsandClasses.pdb
+C:\Users\tanmo\source\repos\C#Assignments\AbstractMethodsandClasses\obj\Debug\net8.0\AbstractMethodsandClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanmo\source\repos\C#Assignments\AbstractMethodsandClasses\obj\Debug\net8.0\AbstractMethodsandClasses.AssemblyInfoInputs.cache
+C:\Users\tanmo\source\repos\C#Assignments\AbstractMethodsandClasses\obj\Debug\net8.0\AbstractMethodsandClasses.AssemblyInfo.cs
+C:\Users\tanmo\source\repos\C#Assignments\AbstractMethodsandClasses\obj\Debug\net8.0\AbstractMethodsandClasses.csproj.CoreCompileInputs.cache
+C:\Users\tanmo\source\repos\C#Assignments\AbstractMethodsandClasses\obj\Debug\net8.0\AbstractMethodsandClasses.sourcelink.json
+C:\Users\tanmo\source\repos\C#Assignments\AbstractMethodsandClasses\obj\Debug\net8.0\AbstractMethodsandClasses.dll
+C:\Users\tanmo\source\repos\C#Assignments\AbstractMethodsandClasses\obj\Debug\net8.0\refint\AbstractMethodsandClasses.dll
+C:\Users\tanmo\source\repos\C#Assignments\AbstractMethodsandClasses\obj\Debug\net8.0\AbstractMethodsandClasses.pdb
+C:\Users\tanmo\source\repos\C#Assignments\AbstractMethodsandClasses\obj\Debug\net8.0\AbstractMethodsandClasses.genruntimeconfig.cache
+C:\Users\tanmo\source\repos\C#Assignments\AbstractMethodsandClasses\obj\Debug\net8.0\ref\AbstractMethodsandClasses.dll

@@ -1,0 +1,15 @@
+C:\Users\tanmo\source\repos\C#Assignments\StaticVariableClassesMethods\bin\Debug\net8.0\StaticVariableClassesMethods.exe
+C:\Users\tanmo\source\repos\C#Assignments\StaticVariableClassesMethods\bin\Debug\net8.0\StaticVariableClassesMethods.deps.json
+C:\Users\tanmo\source\repos\C#Assignments\StaticVariableClassesMethods\bin\Debug\net8.0\StaticVariableClassesMethods.runtimeconfig.json
+C:\Users\tanmo\source\repos\C#Assignments\StaticVariableClassesMethods\bin\Debug\net8.0\StaticVariableClassesMethods.dll
+C:\Users\tanmo\source\repos\C#Assignments\StaticVariableClassesMethods\bin\Debug\net8.0\StaticVariableClassesMethods.pdb
+C:\Users\tanmo\source\repos\C#Assignments\StaticVariableClassesMethods\obj\Debug\net8.0\StaticVariableClassesMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanmo\source\repos\C#Assignments\StaticVariableClassesMethods\obj\Debug\net8.0\StaticVariableClassesMethods.AssemblyInfoInputs.cache
+C:\Users\tanmo\source\repos\C#Assignments\StaticVariableClassesMethods\obj\Debug\net8.0\StaticVariableClassesMethods.AssemblyInfo.cs
+C:\Users\tanmo\source\repos\C#Assignments\StaticVariableClassesMethods\obj\Debug\net8.0\StaticVariableClassesMethods.csproj.CoreCompileInputs.cache
+C:\Users\tanmo\source\repos\C#Assignments\StaticVariableClassesMethods\obj\Debug\net8.0\StaticVariableClassesMethods.sourcelink.json
+C:\Users\tanmo\source\repos\C#Assignments\StaticVariableClassesMethods\obj\Debug\net8.0\StaticVariableClassesMethods.dll
+C:\Users\tanmo\source\repos\C#Assignments\StaticVariableClassesMethods\obj\Debug\net8.0\refint\StaticVariableClassesMethods.dll
+C:\Users\tanmo\source\repos\C#Assignments\StaticVariableClassesMethods\obj\Debug\net8.0\StaticVariableClassesMethods.pdb
+C:\Users\tanmo\source\repos\C#Assignments\StaticVariableClassesMethods\obj\Debug\net8.0\StaticVariableClassesMethods.genruntimeconfig.cache
+C:\Users\tanmo\source\repos\C#Assignments\StaticVariableClassesMethods\obj\Debug\net8.0\ref\StaticVariableClassesMethods.dll
